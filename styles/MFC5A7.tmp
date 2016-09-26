@@ -1,0 +1,63 @@
+
+
+/*body{margin-top:50px;}*/
+
+blockquote {
+  border:none;
+  float:left;
+  position:relative;
+  }
+
+
+.divider {
+    height:50px;
+}
+
+section {
+    height:550px;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+}
+
+.bg-1 {
+	background:url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/background.jpg)no-repeat center center fixed;
+    color:#fff;
+	attachment:fixed;
+}
+
+.logo{height:100px;
+      width:100%;
+	  background:url(../images/logo.png);
+	  background-position:center;
+	  background-repeat:no-repeat;
+	  }
+  
+.bg-2 {
+	background: url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/image2.jpg) no-repeat top center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+.bg-3 {
+	background: url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/image3.jpg) no-repeat bottom center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+  color:#efefef;
+}
+
+
+
