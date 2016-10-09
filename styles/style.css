@@ -4,6 +4,31 @@
 	background: transparent;	
 	
 }
+.modal-content{background-image:url(../images/bg2.jpg);
+               background-size:cover;
+			   background-repeat:no-repeat;
+			   		   	
+}
+
+#semesterone{background-image:url(../images/bg11.png);
+             background-size:cover;
+			 background-repeat:no-repeat;
+			  background-position:right bottom;
+			 
+}
+
+#sem{background-image:url(../images/bg11.png);
+             background-size:cover;
+			 background-repeat:no-repeat;
+			 background-position:right bottom;
+			 }
+#secondprojects{
+	         background-image:url(../images/bg11.png);
+             background-size:cover;
+			 background-repeat:no-repeat;
+			 position:top-center;
+			 background-position:right bottom;
+	}
 
 
 
@@ -29,7 +54,6 @@ blockquote {
 
 
 
-
 .bg-1 {
 	background:url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/bg1.jpg)no-repeat center center fixed;
 	attachment:fixed;
@@ -38,6 +62,7 @@ blockquote {
 	position:relative;
 	position:top-center;
 	height:735px;
+	
 
 	
 }
@@ -63,7 +88,8 @@ blockquote {
 .bg-2 {
 	background: url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/bbb.jpg) no-repeat top center fixed;
     background-size:cover;
-	
+	position:relative;
+  
 	
 }
 
@@ -85,14 +111,12 @@ text-aaa{position:relative;
 
 .bg-3 {
 	background: url(file:///C|/Users/Alexandru/Desktop/New%20Portofolio/images/ccc.jpg) no-repeat bottom center fixed;
-    color:#fff;
     background-size:cover;
 	position:relative;
-	height:735px;
-	
-	
+	height:500px;
+	position:relative;
+ 
 }
-
 
 
 #footer{background-color:black;
@@ -129,6 +153,7 @@ ul
   cursor: default; 
   margin-bottom:20px;
  
+ 
 }
 
 .hovereffect .overlay {
@@ -149,7 +174,7 @@ ul
 }
 
 .hovereffect:hover .overlay {
-  background-color: rgba(0,0,0,0.7);
+  background-color: rgba(1,0,0,0.7);
 }
 
 .hovereffect img {
@@ -264,7 +289,7 @@ Main components
   opacity: 1;
 }
 .no-touch #cd-vertical-nav a.is-selected .cd-dot {
-  background-color: white;
+  background-color: #f65444;
 }
 .no-touch #cd-vertical-nav .cd-dot {
   position: relative;
